@@ -1,14 +1,14 @@
 [
 {
-  "modid": "moonlight_with_wolf",
-  "name": "MoonlightWithWolf",
-  "description": "moonlight_with_wolf",
+  "modid": "better_spawner",
+  "name": "Better Spawner",
+  "description": "Better Spawner",
   "version": "1.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Someoneice"],
-  "credits": "Moon!!",
+  "credits": "This mod will help you make your mob spawner changed by your spawner egg!",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
